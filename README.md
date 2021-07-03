@@ -17,6 +17,6 @@ This chatbot created with simple python code
 
 ## upcoming features
 I have been working on NLP based chat bot it will 
-predict your predict your emotions and produce better results
+predict your emotions and produce better results
 
 
