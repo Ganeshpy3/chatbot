@@ -16,7 +16,6 @@ This chatbot created with simple python code
 - pyttsx3
 
 ## upcoming features
-I have been working on NLP based chat bot it will 
-predict your emotions and produce better results
+I have been working on NLP based chat bot
 
 
