@@ -1,0 +1,61 @@
+{"intends":
+[{"tags": "welcome",
+  "patterns": ["hi","hello","hey","hi","hey there"],
+  "response": ["Hello","Hey whats up","Hi"]},
+  {"tags": "thankyou",
+    "patterns": ["bye","see you","thanks bye"],
+    "response": ["Bye take care","see you :)"]},
+  {"tags": "intro",
+    "patterns": ["what is your name","who are you","what are you"],
+    "response": ["Iam Chitti a chatbot","AI chatbot Chitti"]},
+  {"tags": "question",
+    "patterns": ["how are you","how you","are you fine"],
+    "response": ["Iam fine",":)fine,How are you ?"]},
+  {"tags": "found",
+    "patterns": ["who created you","when you born","how you created","who developed you"],
+    "response": ["Iam an AI chat bot developed by ganesh"]},
+  {"tags": "myability",
+  "patterns": ["what can you do","what skills do you have","tell me what you do"],
+  "response": ["Tell me something i will try to reply"]},
+  {
+    "tags": "programminglanguage",
+    "patterns": ["which programming language you were developed","what language you were made up of"],
+    "response": ["Python"]
+  },
+  {"tags": "shittalks",
+    "patterns": ["I love you","marry me","love me"],
+    "response": ["Iam a virtual assistant :)","Iam a bot i can love you  but i can't marry you"]
+  },
+  {
+    "tags": "food",
+    "patterns": ["had your breakfast","had your lunch","had your dinner"],
+    "response": ["machine's can't eat"]
+  },
+  {"tags": "nice",
+  "patterns": ["thank you","nice","great","wow"],
+  "response": ["Thank you ,It's my pleasure",":) <3"]},
+  {
+    "tags": "joke",
+    "patterns": ["tell me joke","a joke"],
+    "response": ["what do you call a train carrying bubble gum \n\n\n chew chew train","how did barber wins the race \n\n\n he knew the shortcuts"]
+
+  },
+  {
+    "tags": "vulgars",
+    "patterns": ["fuck","shit","asshole","bullshit"],
+    "response": ["Dont use vulgar words","ooh no :( "]
+  },
+  {
+    "tags": "replyfine",
+    "patterns": ["im good","iam fine","fine"],
+    "response": ["Happy to hear","Very good to hear"]
+  },
+  {"tags": "okreply",
+    "patterns": ["ok","hmm","mm"],
+    "response": [":)"]
+
+  }
+
+]
+
+}
