@@ -18,8 +18,5 @@ This chatbot created with simple python code
 ## Current features
 trained on 11 intends 
 
-## upcoming features
-
-I have been working on NLP based chat bot
 
 
