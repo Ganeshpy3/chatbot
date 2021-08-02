@@ -14,6 +14,11 @@ This chatbot created with simple python code
 ## Packages used 
 - selenium
 - pyttsx3
+- keras
+- sklearn
+- nltk
+- re
+- json
 
 ## Current features
 trained on 11 intends 
