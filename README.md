@@ -12,8 +12,6 @@ This chatbot created with simple python code
 
 
 ## Packages used 
-- selenium
-- pyttsx3
 - keras
 - sklearn
 - nltk
